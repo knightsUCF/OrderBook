@@ -2,10 +2,6 @@ from pandas import read_csv
 from datetime import datetime
 
 
-# https://www.datacamp.com/community/tutorials/lstm-python-stock-market
-# https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-#  https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
-
 
 class CleanData():
 
